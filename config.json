@@ -1,6 +1,6 @@
 {
-  "PREFIX": "a,",
-  "approveemoji": "<a:check:911305242061197312>",
+  "PREFIX": "a,", //bot's prefix 
+  "approveemoji": "<a:check:911305242061197312>", //you can change these emojis, as they won't work because bot needs to be in the same server as them
   "denyemoji": "<a:deny:911302428882784359>",
   "erroremoji": "️<a:error:911302451938857001>"
 }
