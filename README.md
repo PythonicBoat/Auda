@@ -2,28 +2,18 @@
 
 ![music_logo](https://user-images.githubusercontent.com/68675629/130319127-8d4a6e3f-d33b-4ede-a1b2-e1383e4118c1.jpg)
 
-A Discord Music Bot written in discord.py
+Support this project by inviting the public bot ![here]https://discord.ly/auda
 
-## Version 3.0:
+## Version 6.0:
 
 - Spotify, Soundcloud, Youtube, Bandcamp, Twitter and other 150+ websites 
 
 ### Installing - Self hosting
 
 1. Download release if available, alternatively download repository zip
-2. Complete Prerequisites
-3. Start ```main.py``` in project root
-4. See configuration options in /config/config.py
-
-Button play plugin:
-* Set emoji with the setting command to enable this feature
-* Emote must be in same server as bot
-* Needs Manage Message permissions
-
-Custom Cookies:
-* Extract cookies.txt from you browser using your preferred method
-* Overwrite the existing cookies.txt in /config/cookies/
-* (Optional) Set a custom cookies.txt location by modifying COOKIE_PATH in config.py
+2. Install Prerequisites listed in `package.json`
+3. Start ```index.js``` in project root
+4. To see configuration options, see `config.json`
 
 ## License
 
