@@ -1,0 +1,31 @@
+{
+  "name": "auda",
+  "version": "4.0.0",
+  "description": "Music bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "PythonicBoat",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "@discordjs/opus": "^0.3.3",
+    "array.prototype.move": "0.0.4",
+    "cheerio": "^1.0.0-rc.3",
+    "discord-ytdl-core": "^4.1.5",
+    "discord.js": "^12.5.3",
+    "discord.js-commando": "^0.10.0",
+    "express": "^4.17.1",
+    "ffmpeg-static": "^4.4.0",
+    "figlet": "^1.5.2",
+    "lyrics-finder": "^21.7.0",
+    "node-fetch": "^2.6.1",
+    "node.js": "0.0.1-security",
+    "quick.db": "^7.1.3",
+    "simple-youtube-api": "^5.2.1",
+    "soundcloud-downloader": "^0.1.8",
+    "string-progressbar": "^1.0.4",
+    "youtube-sr": "^1.0.7",
+    "ytdl-core": "^4.9.1"
+  }
+}
