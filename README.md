@@ -7,6 +7,13 @@ Support this project by inviting the public bot ![here](https://discord.ly/auda)
 ## Version 6.0:
 
 - Spotify, Soundcloud, Youtube, Bandcamp, Twitter and other 150+ websites 
+- 10+ audio filters
+- highly customisable with DJ role and command channel
+- available in multiple languages 
+- 180+ internet radios to listen to 
+- premium features like 24/7 playback, queusaves, recommended playing are available
+- uses slash commands and context menus 
+- being used by 50K+ users 
 
 ### Installing - Self hosting
 
