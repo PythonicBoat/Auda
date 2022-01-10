@@ -2,7 +2,7 @@
 
 ![music_logo](https://user-images.githubusercontent.com/68675629/130319127-8d4a6e3f-d33b-4ede-a1b2-e1383e4118c1.jpg)
 
-Support this project by inviting the public bot ![here](https://discord.ly/auda)
+Support this project by inviting the public bot [here](https://discord.ly/auda)
 
 ## Version 6.0:
 
