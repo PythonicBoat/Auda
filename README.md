@@ -1,6 +1,14 @@
 <h1 align='center'>Auda</h1>
-<h2 align='center'>⭐Star - 🍴Fork - 🗯️PRs</h2>
-<h2 align='center'>Support this project by inviting the public bot [here](https://discord.ly/auda)</h2>
+<div align='center'>
+<a href="https://github.com/pythonicboat/auda/stargazers"><img src="https://img.shields.io/github/stars/pythonicboat/auda" alt="Stars Badge"/></a>
+<a href="https://github.com/pythonicboat/auda/network/members"><img src="https://img.shields.io/github/forks/pythonicboat/auda" alt="Forks Badge"/></a>
+<a href="https://github.com/pythonicboat/auda/pulls"><img src="https://img.shields.io/github/issues-pr/pythonicboat/auda" alt="Pull Requests Badge"/></a>
+<a href="https://github.com/pythonicboat/auda/issues"><img src="https://img.shields.io/github/issues/pythonicboat/auda" alt="Issues Badge"/></a>
+<a href="https://github.com/pythonicboat/auda/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/pythonicboat/auda?color=2b9348"></a>
+<a href="https://github.com/pythonicboat/auda/blob/master/LICENSE"><img src="https://img.shields.io/github/license/pythonicboat/auda?color=2b9348" alt="License Badge"/></a>
+<h2>Support this project by inviting the public bot at https://discord.ly/auda</h2>
+<h2>⭐Star - 🍴Fork - 🗯️PRs</h2>
+</div>
 
 ## Version 6.0 (main)
 
