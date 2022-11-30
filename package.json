@@ -9,7 +9,7 @@
   "author": "PythonicBoat",
   "license": "GPL-3.0",
   "dependencies": {
-    "@discordjs/opus": "^0.3.3",
+    "@discordjs/opus": "^0.9.0",
     "array.prototype.move": "0.0.4",
     "cheerio": "^1.0.0-rc.3",
     "discord-ytdl-core": "^4.1.5",
